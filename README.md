@@ -1,16 +1,21 @@
-## Hi there 👋
+# Mujaddid Technology LLC
 
-<!--
-**mujaddid-technology-llc/mujaddid-technology-llc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building Tomorrow's Technology**
 
-Here are some ideas to get you started:
+We help businesses grow with innovative, reliable, and scalable software solutions, from mobile apps to cloud-based systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What We Value
+
+- **Innovation**: embracing new technologies to deliver cutting-edge solutions
+- **Reliability**: robust, secure, and dependable software
+- **Impact**: success measured by results for our clients
+- **Growth**: continuous improvement for our clients and our team
+
+## Contact
+
+- 🌐 Website: [mujaddidtech.com](https://mujaddidtech.com/)
+- 📧 Email: [info@mujaddidtech.com](mailto:info@mujaddidtech.com)
+- 📞 Phone: +1 (336) 473-2505
+- 📍 Raleigh, NC
+
+© 2026 Mujaddid Technology. All rights reserved.
